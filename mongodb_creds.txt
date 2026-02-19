@@ -1,0 +1,6 @@
+MongoDB Configuration for vehicle project:
+username: sayandebroy
+psswd: Darknetcsmi7029@
+
+connection string
+mongodb+srv://sayandebroy:<db_password>@cluster0.qjmyrec.mongodb.net/?appName=Cluster0
