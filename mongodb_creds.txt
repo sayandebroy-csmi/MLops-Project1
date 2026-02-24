@@ -4,3 +4,9 @@ psswd: 0PqMSguvM2LaiidZ
 
 connection string
 mongodb+srv://sayandebroycsmi_db_user:<db_password>@cluster0.hwrov0w.mongodb.net/?appName=Cluster0
+
+set: export MONGODB_URL="mongodb+srv://<username>:<password>......"
+check: echo $MONGODB_URL
+                    *** For Powershell ***
+set: export MONGODB_URL="mongodb+srv://sayandebroycsmi_db_user:0PqMSguvM2LaiidZ@cluster0.hwrov0w.mongodb.net/?appName=Cluster0"
+check: echo $MONGODB_URL
